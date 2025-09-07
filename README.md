@@ -23,14 +23,15 @@ O modelo de Machine Learning treinado, um `RandomForestClassifier`, alcançou um
 ## 📊 Dashboard Interativo no Power BI
 Os resultados e as previsões do modelo foram consolidados em um dashboard interativo no Power BI para facilitar a visualização e a tomada de decisão. O painel permite que a equipe de negócios explore os dados e identifique os clientes com maior risco de churn de forma intuitiva.
 
-**[COLE AQUI UM PRINT/IMAGEM DO SEU DASHBOARD]**
+![powerBI](https://github.com/user-attachments/assets/4b908378-7196-49b6-91ff-195fa9ca897e)
 
-**[Acesse o dashboard interativo aqui!]**([COLOQUE AQUI O SEU LINK PÚBLICO DO POWER BI])
+
+https://acadcruzeirodosul-my.sharepoint.com/:u:/g/personal/joao_lucini_cs_up_edu_br/ERGSzyYSlAFFmkfPOBXpMakBdBD_24K2pfB_uXoFUs55Ew?e=Z6hO65
 
 ---
 
 ## 🚀 Como Executar o Projeto
-1. Clone o repositório: `git clone [URL_DO_SEU_REPO]`
+1. Clone o repositório: (https://github.com/LUC1NI/analise-churn-telecom)
 2. Instale as dependências necessárias: `pip install pandas scikit-learn matplotlib seaborn`
 3. O notebook `analise_churn_telecom.ipynb` contém todo o código para a análise e modelagem.
 4. O dataset utilizado está na pasta `/data`.
